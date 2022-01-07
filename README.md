@@ -14,3 +14,4 @@ NodeJS Library Used.
 > Nuke <br>
 > Avatar <br>
 
+<i>Prepared by me.</i>
